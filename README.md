@@ -3,6 +3,7 @@
 Solving the NYT Spelling Bee
 
 Data = https://github.com/dwyl/english-words
+
 Game = https://www.nytimes.com/puzzles/spelling-bee
 
 # HOW TO PLAY
