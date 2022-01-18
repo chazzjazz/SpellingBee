@@ -2,9 +2,10 @@
 
 Solving the NYT Spelling Bee
 
-HOW TO PLAY
+Data = https://github.com/dwyl/english-words
+Game = https://www.nytimes.com/puzzles/spelling-bee
 
-https://www.nytimes.com/puzzles/spelling-bee
+# HOW TO PLAY
 
 Words must contain at least 4 letters.
 
