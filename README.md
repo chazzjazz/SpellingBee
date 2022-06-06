@@ -1,4 +1,4 @@
-# Running Code = 
+# Running Code  
 You really only need entry.py and solvepuzzle.py, the rest is included for fun. Execute entry.py, enter all 7 letters in first box, then the center letter in the second. Then click run.
 
 
